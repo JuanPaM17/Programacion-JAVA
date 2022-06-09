@@ -1,0 +1,28 @@
+
+Nombre: Sistemas
+Codigo: S67
+Oficinas asignadas: 3
+
+Nombre: JHGFDFGHJ
+Codigo: 256
+Oficinas asignadas: 2
+
+Nombre: Sistemas
+Codigo: S1
+Oficinas asignadas: 2
+
+Nombre: grdfg
+Codigo: dftre
+Oficinas asignadas: 0
+
+Nombre: SS
+Codigo: SS
+Oficinas asignadas: 2
+
+Nombre: SS
+Codigo: SS
+Oficinas asignadas: 1
+
+Nombre: SS
+Codigo: SS
+Oficinas asignadas: 1

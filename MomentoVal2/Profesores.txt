@@ -1,0 +1,80 @@
+
+DATOS DEL EMPLEADOR
+Nombre: Juan
+Cedula: 7654
+Sueldo: 34567
+Area Asignada: Sistemas
+Oficina Asignada: 12
+Tipo: Planta
+
+
+
+DATOS DEL EMPLEADOR
+Nombre: fghjkl
+Cedula: 3456
+Sueldo: 4567
+Area Asignada: JHGFDFGHJ
+Oficina Asignada: S2
+Tipo: hgfds
+
+
+
+DATOS DEL EMPLEADOR
+Nombre: Juan
+Cedula: 1039
+Sueldo: 100000
+Area Asignada: JHGFDFGHJ
+Oficina Asignada: S1
+Tipo: Planta
+
+
+
+DATOS DEL EMPLEADOR
+Nombre: Juan
+Cedula: 1234
+Sueldo: 1234
+Area Asignada: Sistemas
+Oficina Asignada: S45
+Tipo: Planta
+
+
+
+DATOS DEL EMPLEADOR
+Nombre: Juan
+Cedula: 333
+Sueldo: 233
+Area Asignada: SS
+Oficina Asignada: SS
+Tipo: Planta
+
+
+
+DATOS DEL EMPLEADOR
+Nombre: Juan
+Cedula: 1234567
+Sueldo: 1234567
+Area Asignada: SS
+Oficina Asignada: SS
+Tipo: PLanta
+
+
+
+DATOS DEL EMPLEADOR
+Nombre: Juan
+Cedula: 123
+Sueldo: 345
+Area Asignada: SS
+Oficina Asignada: SS
+Tipo: planta
+
+
+
+DATOS DEL EMPLEADOR
+Nombre: Felipe
+Cedula: 780
+Sueldo: 6543
+Area Asignada: SS
+Oficina Asignada: SS
+Tipo: Contra
+
+
